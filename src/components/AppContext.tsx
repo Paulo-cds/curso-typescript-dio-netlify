@@ -22,7 +22,6 @@ export const AppContextProvider = ({ children }: any) => {
         setIsLoggedIn(JSON.parse(login))
         if(login){
           navigate("/conta/1")
-
         }
       }
     },[])
