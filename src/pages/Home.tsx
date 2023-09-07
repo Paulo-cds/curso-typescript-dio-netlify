@@ -31,7 +31,7 @@ const Home = () => {
       display="flex"
       alignItems="center"
       justifyContent="center"
-      flexDirection="column"
+      flexDirection="column" 
       height="90vh"
     >
       <Card>
